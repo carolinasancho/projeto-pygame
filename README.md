@@ -1,3 +1,4 @@
-# projeto-pygame
+<h1 align="center">PyGame</h1>
 
-#é um jogo
+<p align="center"> First Python Project in Ironhack Bootcamp :star:
+</h1>
