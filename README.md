@@ -7,7 +7,7 @@
 ##  💻 About the project</br>
 The project was proposed at IronHack's Data Analytics BootCamp.
 
-In order to train the first lessons learned with Python, we developed a game in juppyter notebook.
+In order to train the first lessons learned in Python, we developed a game in juppyter notebook.
 The game chosen by me was the number memorization game, where the player reads a randomly generated number, memorizes and types it. The number of digits increases as the player progresses within the game.
 
 ## 🛠 Technologies
