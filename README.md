@@ -4,13 +4,13 @@
 </h1>
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-##  💻 Sobre o projeto</br> </br>
-O projeto foi proposto no BootCamp de Data Analytics da IronHack.
+##  💻 About the project</br> </br>
+The project was proposed at IronHack's Data Analytics BootCamp..
 
-De forma a treinar os primeiros ensinamentos obtidos com o Python, desenvolvemos um jogo no juppyter notebook.
-O jogo escolhido por mim foi o de memorização de números, onde o jogador lê um número gerado randomicamente, memoriza e digita. A quantidade de dígitos aumenta conforme o jogador evolui dentro do jogo.
+In order to train the first lessons learned with Python, we developed a game in juppyter notebook.
+The game chosen by me was the number memorization game, where the player reads a randomly generated number, memorizes and types it. The number of digits increases as the player progresses within the game.
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
 
-As análises foram desenvolvidos na linguagem Python, utilizando o Jupyter Notebook e suas bibliotecas.
+The analyzes were developed in the Python language, using the Jupyter Notebook and its libraries.
