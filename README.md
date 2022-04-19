@@ -1,5 +1,4 @@
 <img src="https://bit.ly/2VnXWr2" width="60">
-
 <h1 align="center">PyGame - Numbers Memory Game</h1>
 
 <p align="center"> First Python Project in Ironhack Bootcamp :star:
